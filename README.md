@@ -1,6 +1,6 @@
 # Smooth Slider with Parallax Effect
 
-This project showcases a dynamic slider built using only vanilla JavaScript, HTML, and CSS. It features smooth scrolling animations, responsive scaling of cards, and a parallax effec
+This project showcases a dynamic slider built using only vanilla JavaScript, HTML, and CSS. It features smooth scrolling animations, responsive scaling of cards, and a parallax effe
 
 ## Features
 - Smooth scrolling animations
